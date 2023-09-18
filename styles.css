@@ -8,6 +8,8 @@ ul{
 }
 li{
 	text-align:left;
+	list-style-type: none;
+	text-decoration-line: none;
 	
 }
 body{
@@ -24,10 +26,10 @@ body{
 	border-radius:10px;
 	padding:10px;
 }
-audio{
+.player_two{
 	width:100%;
 }
-video{
+.player_one{
 	width:100%;
 }
 p{
