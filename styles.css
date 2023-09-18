@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+*{
+	text-align:center;
+}
+ul{
+	list-style-type: none;
+	
+}
+li{
+	text-align:left;
+}
+body{
+	background-color: rgb(204, 204, 204);
+}
